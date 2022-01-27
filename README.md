@@ -14,3 +14,10 @@ la libreria tiene realiza las siguientes funciones con operaciones basicas de nu
 6. Conjugado
 7. Conversión entre representaciones polar y cartesiano
 8. Retornar la fase de un número complejo.
+
+# desarrollado con:
+-python - lenguaje de programacion
+
+#Autores:
+
+-Gabriel Alejandro Silva Lozada
