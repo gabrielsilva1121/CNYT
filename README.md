@@ -18,6 +18,6 @@ la libreria tiene realiza las siguientes funciones con operaciones basicas de nu
 # desarrollado con:
 -python - lenguaje de programacion
 
-#Autores:
+# Autores:
 
 -Gabriel Alejandro Silva Lozada
