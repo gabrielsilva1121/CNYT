@@ -17,22 +17,22 @@ la libreria tiene realiza las siguientes funciones con operaciones basicas de nu
 
 # La versión 2 de la librería con el nombre LibreriaComplejos2 accepta las siguientes operaciones.
 
-Adición de vectores complejos.
-Inverso (aditivo) de un vector complejo.
-Multiplicación de un escalar por un vector complejo.
-Adición de matrices complejas.
-Inversa (aditiva) de una matriz compleja.
-Multiplicación de un escalar por una matriz compleja.
-Transpuesta de una matriz/vector
-Conjugada de una matriz/vector
-Adjunta (daga) de una matriz/vector
-Producto de dos matrices (de tamaños compatibles)
-Función para calcular la "acción" de una matriz sobre un vector.
-Producto interno de dos vectores
-Norma de un vector
-Distancia entre dos vectores
-Revisar si una matriz es unitaria 16 Revisar si una matriz es Hermitiana
-Producto tensor de dos matrices/vectores
+1.Adición de vectores complejos.
+2.Inverso (aditivo) de un vector complejo.
+3.Multiplicación de un escalar por un vector complejo.
+4.Adición de matrices complejas.
+5.Inversa (aditiva) de una matriz compleja.
+6. Multiplicación de un escalar por una matriz compleja.
+7Transpuesta de una matriz/vector
+8.Conjugada de una matriz/vector
+9.Adjunta (daga) de una matriz/vector
+10.Producto de dos matrices (de tamaños compatibles)
+11.Función para calcular la "acción" de una matriz sobre un vector.
+12.Producto interno de dos vectores
+13.Norma de un vector
+14.Distancia entre dos vectores
+15.Revisar si una matriz es unitaria 16 Revisar si una matriz es Hermitiana
+16.Producto tensor de dos matrices/vectores
 
 # desarrollado con:
 -python - lenguaje de programacion
